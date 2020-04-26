@@ -1,4 +1,6 @@
-# musicplayer
+# Flutter Music Player
+
+![](flutter_music_player.jpg)
 
 A new Flutter application.
 
