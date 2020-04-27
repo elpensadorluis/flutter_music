@@ -1,7 +1,7 @@
 # Flutter Music Player
 
 <!-- ![](flutter_music_player.jpg)  -->
-![](flutter_music_player.gif)
+![](flutter_music_player_opti.gif)
 
 A new Flutter application.
 
